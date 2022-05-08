@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Chocolate cake</title>
+    </head>
+    <body>
+        <h1>Chocolate cake</h1>
+
+        <img src="../img/chocolate-cake.JPG" alt="Photo of a unsliced, square chocolate cake.">
+        <h2>Description</h2>
+        <p>Megan gave me this recipe. It is a Mrs Beeton recipe.</p>
+        <br>
+        <h2>Ingredients</h2>
+        <ul>
+            <li>200g plain flour</li>
+            <li>300g caster sugar</li>
+            <li>50g cocoa</li>
+            <li>2 tsp bicarbonate of soda</li>
+            <li>1/2 tsp salt</li>
+            <li>100g butter</li>
+            <li>200ml milk</li>
+            <li>2 eggs</li>
+            <li>1 tsp vanilla extract</li>
+        </ul>
+        <br>
+        <h2>Steps</h2>
+        <ol>
+            <li>Preheat the oven to 180C. Grease the tin.</li>
+            <li>Sift the dry ingredients into a mixing bowl.</li>
+            <li>Add the butter and 175ml of the milk, mixing well until smooth.</li>
+            <li>Add the remaining milk, eggs and vanilla extract.</li>
+            <li>Transfer the batter to the prepared tin.</li>
+            <li>Bake for 35-40 minutes.</li>
+        </ol>
+    </body>
+</html>
